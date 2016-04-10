@@ -1,0 +1,6 @@
+C:\Code\Angular2\SergeStock\SergeStock\bin\SergeStock.dll.config
+C:\Code\Angular2\SergeStock\SergeStock\bin\SergeStock.dll
+C:\Code\Angular2\SergeStock\SergeStock\bin\SergeStock.pdb
+C:\Code\Angular2\SergeStock\SergeStock\obj\Debug\SergeStock.csprojResolveAssemblyReference.cache
+C:\Code\Angular2\SergeStock\SergeStock\obj\Debug\SergeStock.dll
+C:\Code\Angular2\SergeStock\SergeStock\obj\Debug\SergeStock.pdb
